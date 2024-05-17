@@ -1,0 +1,23 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+*,
+*::before
+::after{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+
+.calculator {
+    width: 350px
+}
+.result {
+    width:97%;
+    height: 20px;
+    font-size: 30xp;
+    padding: 1%;
+}
+.button {
+    float: left;
+    height: 35px;
+    width: 25%;
+}
